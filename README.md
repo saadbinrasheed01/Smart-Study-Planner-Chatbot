@@ -12,7 +12,7 @@ A real-time **chatbot-style AI agent** that converses with the user and generate
 ## ✅ Why This Project (CI Alignment)
 Study planning is a **constrained optimization** problem with a huge search space. This project uses **Evolutionary Computation (Genetic Algorithm)** to search for better schedules using a fitness function and constraint penalties.
 
-> ✅ This is **NOT a RAG-based** app. The core output is produced via **GA optimization + fitness design + constraint handling**.
+> 
 
 ---
 
